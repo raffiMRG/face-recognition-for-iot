@@ -17,8 +17,8 @@ First time i using yolo for face detection & recognition
 ### Clone Repository
 
 ```bash
-git clone https://github.com/<username>/<repo-name>.git
-cd <repo-name>
+git clone git@github.com:raffiMRG/face-recognition-for-iot.git
+cd face-recognition-for-iot
 ```
 
 ### Buat Virtual Environment
