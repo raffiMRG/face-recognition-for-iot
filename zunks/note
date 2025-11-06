@@ -1,0 +1,5 @@
+masuk venv
+  source venv/bin/activate
+
+keluar venv
+  deactivate
